@@ -1,4 +1,4 @@
-/*import java.io.*;
+import java.io.*;
 
 class principal{
 
@@ -30,5 +30,3 @@ class principal{
     dijkstra obj = new dijkstra(num);
   }
 }
-
-*/
