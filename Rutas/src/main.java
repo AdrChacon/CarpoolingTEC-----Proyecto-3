@@ -1,6 +1,6 @@
 import java.io.*;
 
-class principal{
+class MainDijkstra{
 
   public static void main(String args[]){
 
