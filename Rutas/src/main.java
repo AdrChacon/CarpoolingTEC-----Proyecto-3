@@ -1,4 +1,4 @@
-import java.io.*;
+/*import java.io.*;
 
 class principal{
 
@@ -31,3 +31,4 @@ class principal{
   }
 }
 
+*/
